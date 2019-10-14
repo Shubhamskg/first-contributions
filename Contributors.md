@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 
 - [Vicente Reyes](https://github.com/reyesvicente)
 - [Dhairya Patel](https://github.com/dhairya0704)
@@ -8,6 +8,7 @@
 - [Shivam Kumar Singh](https://github.com/shivam-51)
 - [Ankit Srivastava](https://github.com/a18nov)
 - [azamat] (https://github.com/tikenov)
+- [shubham](https://github.com/Shubhamskg)
 - [aiden](https://github.com/acdlbs)
 - [dilapitan](https://github.com/dilapitan)
 - [Bhargav SNV](https://github.com/Gituser143)
